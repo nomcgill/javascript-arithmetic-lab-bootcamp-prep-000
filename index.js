@@ -11,10 +11,10 @@ function divide(a,b) {
   return (a / b)
 }
 
-function inc(n+1) {
+function inc(n) {
 return (n++)
 }
 
-function dec(n-1) {
+function dec(n) {
   return (n--)
 }
